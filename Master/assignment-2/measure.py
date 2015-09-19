@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python 
 
 "Networking Assignment 2"
 
@@ -262,4 +262,4 @@ args = parser.parse_args()
 if not os.path.exists(args.dir):
     os.makedirs(args.dir)
 
-lg.setLogLevel('info')
+lg.setLogLevel('info') 
