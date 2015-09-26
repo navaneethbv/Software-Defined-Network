@@ -1,9 +1,3 @@
-#Georgia Tech
-#Computer Networking
-
-#Professor: Nick Feamster
-#Teaching Assistant: Ben Jones
-
 
 ################################################################################
 # The Pyretic Project                                                          #
