@@ -1,7 +1,4 @@
-'''
-Udacity: ud436/sdn-firewall
-Professor: Nick Feamster
-'''
+
 
 ################################################################################
 # The Pyretic Project                                                          #
