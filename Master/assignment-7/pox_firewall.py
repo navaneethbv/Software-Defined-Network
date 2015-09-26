@@ -1,7 +1,3 @@
-'''
-Udacity: ud436/sdn-firewall
-Professor: Nick Feamster
-'''
 
 from pox.core import core
 import pox.openflow.libopenflow_01 as of
