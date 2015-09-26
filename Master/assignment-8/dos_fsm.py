@@ -1,10 +1,4 @@
-# Udacity
-# Computer Networking
-# Assignment 8: Applications of SDN
-#
-# Professor: Nick Feamster
-# Teaching Assistant: Ben Jones
-#
+
 ################################################################################
 # Resonance Project                                                            #
 # Resonance implemented with Pyretic platform                                  #
