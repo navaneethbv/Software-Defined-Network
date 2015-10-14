@@ -21,7 +21,7 @@ def get_dst_mac(pkt):
     """ Returns the destination MAC address of the packet. """
     return pkt['dstmac']
 
-def get_switch(pkt):
+def get_switch(pkt): 
     """ Returns the switch of the packet. """
     return pkt['switch']
 
