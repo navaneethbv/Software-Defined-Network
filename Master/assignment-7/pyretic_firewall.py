@@ -9,7 +9,7 @@
 # NOTICES file distributed with this work for additional information           #
 # regarding copyright and ownership. The Pyretic Project licenses this         #
 # file to you under the following license.                                     #
-#                                                                              #
+#                                                                              #  
 # Redistribution and use in source and binary forms, with or without           #
 # modification, are permitted provided the following conditions are met:       #
 # - Redistributions of source code must retain the above copyright             #
