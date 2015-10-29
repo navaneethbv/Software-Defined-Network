@@ -4,7 +4,7 @@
     implement sections of. It is Pyretic based, but this is somewhat\
     unimportant at the moment, as we only care about the learning\
     behaviors."
-
+ 
 from pyretic.lib.corelib import *
 from pyretic.lib.std import *
 from pyretic.lib.query import packets
