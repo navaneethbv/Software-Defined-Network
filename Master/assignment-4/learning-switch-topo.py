@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 "Assignment 4 - Creates the topology used for the learning switch \
-    assignment. This file needs no changes in order to complete the \
+    assignment. This file needs no changes in order to complete the \ 
     assignment, however the student may want to change it to test new \
     topologies."
 
