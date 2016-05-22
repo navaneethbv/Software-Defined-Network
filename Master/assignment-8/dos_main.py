@@ -2,7 +2,7 @@
 # Computer Networking
 # Assignment 8: Applications of SDN
 #
-# Professor: Nick Feamster
+# Professor: Nick Feamster 
 # Teaching Assistant: Ben Jones
 #
 ################################################################################
