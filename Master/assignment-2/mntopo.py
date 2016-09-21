@@ -6,7 +6,7 @@ from mininet.util import custom
 # Topology to be instantiated in Mininet
 class MNTopo(Topo):
     "Mininet test topology"
-
+ 
     def __init__(self, cpu=.1, max_queue_size=None, **params):
 
         # Initialize topo
