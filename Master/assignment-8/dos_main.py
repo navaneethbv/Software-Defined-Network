@@ -1,14 +1,6 @@
 # Udacity
 # Computer Networking
 # Assignment 8: Applications of SDN
-#
-################################################################################
-# Resonance Project                                                            #
-# Resonance implemented with Pyretic platform                                  #
-# author: Hyojoon Kim (joonk@gatech.edu)                                       #
-# author: Nick Feamster (feamster@cc.gatech.edu)                               #
-# author: Muhammad Shahbaz (muhammad.shahbaz@gatech.edu)                       #
-################################################################################
 
 # import pyretic stuff
 from pyretic.lib.corelib import *
